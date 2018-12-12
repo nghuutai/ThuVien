@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ThuVien.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 23px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="auto-style1" style="width: 950px">
+            <tr>
+                <td class="auto-style2" colspan="3">
+                    <img alt="" src="images/thiet-ke-website-thu-vien-truc-tuyen.jpg" style="width: 950px; height: 160px;" /></td>
+            </tr>
+            <tr>
+                <td class="auto-style2" colspan="3">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 170px">&nbsp;</td>
+                <td style="width: 610px">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder></td>
+                <td style="width: 170px">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style2" colspan="3"></td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+</body>
+</html>

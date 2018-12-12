@@ -1,0 +1,13 @@
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\ThuVien.dll
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\ThuVien.pdb
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\Newtonsoft.Json.dll
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\System.Net.Http.Formatting.dll
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\System.Web.Http.dll
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\System.Web.Http.WebHost.dll
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\Newtonsoft.Json.xml
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\System.Net.Http.Formatting.xml
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\System.Web.Http.xml
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\bin\System.Web.Http.WebHost.xml
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\obj\Debug\ThuVien.csprojResolveAssemblyReference.cache
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\obj\Debug\ThuVien.dll
+E:\May_tai\Du_Lieu\NET\BT\ThuVien\ThuVien\obj\Debug\ThuVien.pdb
